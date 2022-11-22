@@ -24,15 +24,15 @@ export default function Home(){
 
 
         <footer>
-           <Social url="https://www.facebook.com/profile.php?id=100002293462926">
+           <Social url="https://www.facebook.com/profile.php?id=100002293462926" target="_blank">
             <FaFacebook size={35} color="#fff"/>
            </Social>
 
-           <Social url="https://www.instagram.com/michaell_ale/">
+           <Social url="https://www.instagram.com/michaell_ale/" target="_blank">
             <FaInstagram size={35} color="#fff"/>
            </Social>
 
-           <Social url="https://www.linkedin.com/in/michael-ale72/">
+           <Social url="https://www.linkedin.com/in/michael-ale72/" target="_blank">
             <FaLinkedin size={35} color="#fff"/>
            </Social>
            
